@@ -13,12 +13,10 @@ Clone
 Setup
 
 
-    update and install this package first
+update and install this package first
 
-$ npm update
-$ npm install 
-$ node server.js
+    $ npm update
+    $ npm install 
+    $ node server.js
 
-   
-
-    For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer h
+  
